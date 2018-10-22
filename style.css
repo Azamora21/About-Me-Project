@@ -76,4 +76,13 @@ div.gradient1{background: linear-gradient(#808080,#ffffff)}
 .tooltip:hover .tooltiptext {
     visibility: visible;
 }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #000000;
+    color: #f0f0f0;
+    text-align: center;
+}
 </style>
